@@ -1,0 +1,211 @@
+ .u-section-1 {
+  background-image: linear-gradient(#f1b5b8, #db545a);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 211px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 61px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 746px;
+  margin: 20px auto 50px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(#db545a, #f1b5b8);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 954px;
+}
+
+.u-section-2 .u-list-1 {
+  grid-template-rows: auto;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-gap: 10px 10px;
+  min-height: 715px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 290px;
+  height: 290px;
+  background-image: url("images/FarabiDCCFulltrailer.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 290px;
+  height: 290px;
+  background-image: url("images/FarabiFullXtrailerX.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-3 {
+  width: 290px;
+  height: 290px;
+  background-image: url("images/FarabiDCCFullhighlight.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-4 {
+  width: 290px;
+  height: 290px;
+  background-image: url("images/farabishday2.jpg");
+  background-position: 50% 9.4%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-5 {
+  width: 290px;
+  height: 290px;
+  background-image: url("images/farabishday1_2FarabiDCCFullVidEd720.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-6 {
+  width: 290px;
+  height: 290px;
+  background-image: url("images/farabishday11080.jpg");
+  background-position: 50% 41.02%;
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 553px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 589px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 232px;
+    height: 232px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 232px;
+    height: 232px;
+  }
+
+  .u-section-2 .u-image-3 {
+    width: 232px;
+    height: 232px;
+  }
+
+  .u-section-2 .u-image-4 {
+    width: 232px;
+    height: 232px;
+  }
+
+  .u-section-2 .u-image-5 {
+    width: 232px;
+    height: 232px;
+  }
+
+  .u-section-2 .u-image-6 {
+    width: 232px;
+    height: 232px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1015px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    min-height: 1025px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
